@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+.subject {
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.subject h2 {
+  margin: 0;
+  background: #007acc;
+  color: white;
+  padding: 10px;
+  border-radius: 6px;
+}
+.topics {
+  list-style: none;
+  padding: 0 20px;
+  display: none;
+}
+.topics li {
+  margin: 8px 0;
+}
